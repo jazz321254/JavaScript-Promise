@@ -3,9 +3,9 @@
 最近用到Promise覺得挺有趣的，所以寫了一些程式來驗證一下  
 而Promise在程式中會用到的主要原因如下：
 
- * 避免Callback Hell
+ * 避免 Callback Hell
  * 容易除錯 Try Catch 
- * 流程及併發控制  
+ * 流程及併發控制 Promise resolve & all 
 
 在此只根據流程及併發控制實作  
 可分為三種  
